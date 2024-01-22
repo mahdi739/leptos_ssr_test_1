@@ -18,4 +18,6 @@ style-file = "style.css"
 assets-dir = "assets"
 output-name = "leptos_ssr_test_1"
 bin-default-features = true
+bin-features=[""]
 lib-default-features = true
+lib-features=[""]
